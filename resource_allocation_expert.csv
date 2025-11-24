@@ -1,0 +1,50 @@
+ResourceID,ResourceType,Department,QuantityAvailable,QuantityUsed,Cost
+1,Teacher,Science,177,74,62716
+2,Classroom,Science,161,132,167895
+3,Budget,Science,51,26,30014
+4,Books,Science,136,75,31465
+5,Computers,Science,39,109,69718
+6,Lab Equipment,Science,124,107,39228
+7,Support Staff,Science,88,125,150518
+8,Teacher,Math,33,9,23224
+9,Classroom,Math,176,62,72525
+10,Budget,Math,172,66,157096
+11,Books,Math,128,127,86476
+12,Computers,Math,92,127,161821
+13,Lab Equipment,Math,132,81,61038
+14,Support Staff,Math,67,28,74318
+15,Teacher,IT,58,173,196783
+16,Classroom,IT,68,166,151537
+17,Budget,IT,180,75,161443
+18,Books,IT,21,23,107041
+19,Computers,IT,60,10,84409
+20,Lab Equipment,IT,196,24,188959
+21,Support Staff,IT,95,129,126754
+22,Teacher,Library,60,106,159439
+23,Classroom,Library,43,145,86201
+24,Budget,Library,128,136,125545
+25,Books,Library,82,5,180518
+26,Computers,Library,135,11,162803
+27,Lab Equipment,Library,141,161,62243
+28,Support Staff,Library,181,165,74220
+29,Teacher,Admin,108,52,61492
+30,Classroom,Admin,71,114,33476
+31,Budget,Admin,43,27,129494
+32,Books,Admin,174,104,55358
+33,Computers,Admin,51,42,13208
+34,Lab Equipment,Admin,93,22,76137
+35,Support Staff,Admin,62,141,123175
+36,Teacher,General,197,74,168110
+37,Classroom,General,40,63,145060
+38,Budget,General,63,19,85351
+39,Books,General,185,6,162878
+40,Computers,General,22,85,18404
+41,Lab Equipment,General,40,74,114682
+42,Support Staff,General,107,50,99739
+43,Teacher,Humanities,150,164,18747
+44,Classroom,Humanities,99,78,67840
+45,Budget,Humanities,167,160,172974
+46,Books,Humanities,171,121,195886
+47,Computers,Humanities,82,152,119810
+48,Lab Equipment,Humanities,67,22,12858
+49,Support Staff,Humanities,173,159,31583

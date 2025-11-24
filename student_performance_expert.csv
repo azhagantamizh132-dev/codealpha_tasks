@@ -1,0 +1,721 @@
+StudentID,Name,Class,Subject,Term,Marks,AttendancePercent,AssignmentsCompleted,MaxAssignments
+1,Student_1,Grade 11,Math,Term 1,81,99,7,12
+1,Student_1,Grade 11,Math,Term 2,94,88,11,12
+1,Student_1,Grade 11,Science,Term 1,52,89,10,12
+1,Student_1,Grade 11,Science,Term 2,69,100,8,12
+1,Student_1,Grade 11,English,Term 1,90,82,12,12
+1,Student_1,Grade 11,English,Term 2,75,93,9,12
+1,Student_1,Grade 11,History,Term 1,75,86,10,12
+1,Student_1,Grade 11,History,Term 2,99,96,5,12
+1,Student_1,Grade 11,Computer Science,Term 1,87,78,8,12
+1,Student_1,Grade 11,Computer Science,Term 2,62,98,11,12
+1,Student_1,Grade 11,Geography,Term 1,52,72,11,12
+1,Student_1,Grade 11,Geography,Term 2,54,94,8,12
+2,Student_2,Grade 9,Math,Term 1,77,100,12,12
+2,Student_2,Grade 9,Math,Term 2,56,90,10,12
+2,Student_2,Grade 9,Science,Term 1,57,86,10,12
+2,Student_2,Grade 9,Science,Term 2,50,100,5,12
+2,Student_2,Grade 9,English,Term 1,97,87,12,12
+2,Student_2,Grade 9,English,Term 2,48,100,6,12
+2,Student_2,Grade 9,History,Term 1,61,72,12,12
+2,Student_2,Grade 9,History,Term 2,58,96,11,12
+2,Student_2,Grade 9,Computer Science,Term 1,90,78,6,12
+2,Student_2,Grade 9,Computer Science,Term 2,79,94,6,12
+2,Student_2,Grade 9,Geography,Term 1,72,97,5,12
+2,Student_2,Grade 9,Geography,Term 2,77,88,11,12
+3,Student_3,Grade 10,Math,Term 1,55,73,8,12
+3,Student_3,Grade 10,Math,Term 2,61,85,7,12
+3,Student_3,Grade 10,Science,Term 1,97,71,12,12
+3,Student_3,Grade 10,Science,Term 2,56,87,10,12
+3,Student_3,Grade 10,English,Term 1,75,74,11,12
+3,Student_3,Grade 10,English,Term 2,57,92,11,12
+3,Student_3,Grade 10,History,Term 1,71,77,6,12
+3,Student_3,Grade 10,History,Term 2,82,93,5,12
+3,Student_3,Grade 10,Computer Science,Term 1,88,88,8,12
+3,Student_3,Grade 10,Computer Science,Term 2,97,86,9,12
+3,Student_3,Grade 10,Geography,Term 1,64,94,11,12
+3,Student_3,Grade 10,Geography,Term 2,59,98,11,12
+4,Student_4,Grade 11,Math,Term 1,80,84,6,12
+4,Student_4,Grade 11,Math,Term 2,93,100,6,12
+4,Student_4,Grade 11,Science,Term 1,62,78,6,12
+4,Student_4,Grade 11,Science,Term 2,72,92,9,12
+4,Student_4,Grade 11,English,Term 1,85,73,12,12
+4,Student_4,Grade 11,English,Term 2,79,91,5,12
+4,Student_4,Grade 11,History,Term 1,80,75,7,12
+4,Student_4,Grade 11,History,Term 2,98,97,5,12
+4,Student_4,Grade 11,Computer Science,Term 1,68,99,8,12
+4,Student_4,Grade 11,Computer Science,Term 2,90,76,10,12
+4,Student_4,Grade 11,Geography,Term 1,54,72,8,12
+4,Student_4,Grade 11,Geography,Term 2,80,85,7,12
+5,Student_5,Grade 9,Math,Term 1,61,70,7,12
+5,Student_5,Grade 9,Math,Term 2,85,81,10,12
+5,Student_5,Grade 9,Science,Term 1,59,82,10,12
+5,Student_5,Grade 9,Science,Term 2,64,90,11,12
+5,Student_5,Grade 9,English,Term 1,48,87,12,12
+5,Student_5,Grade 9,English,Term 2,89,79,12,12
+5,Student_5,Grade 9,History,Term 1,66,83,7,12
+5,Student_5,Grade 9,History,Term 2,76,95,11,12
+5,Student_5,Grade 9,Computer Science,Term 1,69,73,11,12
+5,Student_5,Grade 9,Computer Science,Term 2,64,81,9,12
+5,Student_5,Grade 9,Geography,Term 1,56,81,8,12
+5,Student_5,Grade 9,Geography,Term 2,82,92,5,12
+6,Student_6,Grade 11,Math,Term 1,100,90,5,12
+6,Student_6,Grade 11,Math,Term 2,61,82,10,12
+6,Student_6,Grade 11,Science,Term 1,51,86,6,12
+6,Student_6,Grade 11,Science,Term 2,82,100,5,12
+6,Student_6,Grade 11,English,Term 1,53,93,11,12
+6,Student_6,Grade 11,English,Term 2,52,73,5,12
+6,Student_6,Grade 11,History,Term 1,74,71,9,12
+6,Student_6,Grade 11,History,Term 2,65,97,10,12
+6,Student_6,Grade 11,Computer Science,Term 1,51,85,9,12
+6,Student_6,Grade 11,Computer Science,Term 2,97,92,6,12
+6,Student_6,Grade 11,Geography,Term 1,97,85,5,12
+6,Student_6,Grade 11,Geography,Term 2,91,89,10,12
+7,Student_7,Grade 9,Math,Term 1,45,83,7,12
+7,Student_7,Grade 9,Math,Term 2,81,80,9,12
+7,Student_7,Grade 9,Science,Term 1,96,81,6,12
+7,Student_7,Grade 9,Science,Term 2,89,74,8,12
+7,Student_7,Grade 9,English,Term 1,69,89,11,12
+7,Student_7,Grade 9,English,Term 2,80,91,6,12
+7,Student_7,Grade 9,History,Term 1,56,95,8,12
+7,Student_7,Grade 9,History,Term 2,68,78,11,12
+7,Student_7,Grade 9,Computer Science,Term 1,64,91,5,12
+7,Student_7,Grade 9,Computer Science,Term 2,97,81,10,12
+7,Student_7,Grade 9,Geography,Term 1,97,73,5,12
+7,Student_7,Grade 9,Geography,Term 2,95,80,8,12
+8,Student_8,Grade 9,Math,Term 1,49,70,10,12
+8,Student_8,Grade 9,Math,Term 2,61,100,9,12
+8,Student_8,Grade 9,Science,Term 1,87,98,9,12
+8,Student_8,Grade 9,Science,Term 2,92,79,7,12
+8,Student_8,Grade 9,English,Term 1,72,97,11,12
+8,Student_8,Grade 9,English,Term 2,97,82,5,12
+8,Student_8,Grade 9,History,Term 1,46,71,5,12
+8,Student_8,Grade 9,History,Term 2,52,87,6,12
+8,Student_8,Grade 9,Computer Science,Term 1,95,96,10,12
+8,Student_8,Grade 9,Computer Science,Term 2,56,100,12,12
+8,Student_8,Grade 9,Geography,Term 1,65,74,10,12
+8,Student_8,Grade 9,Geography,Term 2,78,92,10,12
+9,Student_9,Grade 11,Math,Term 1,83,92,12,12
+9,Student_9,Grade 11,Math,Term 2,48,79,8,12
+9,Student_9,Grade 11,Science,Term 1,54,75,8,12
+9,Student_9,Grade 11,Science,Term 2,51,87,9,12
+9,Student_9,Grade 11,English,Term 1,63,94,9,12
+9,Student_9,Grade 11,English,Term 2,62,78,6,12
+9,Student_9,Grade 11,History,Term 1,62,75,9,12
+9,Student_9,Grade 11,History,Term 2,67,89,8,12
+9,Student_9,Grade 11,Computer Science,Term 1,95,99,11,12
+9,Student_9,Grade 11,Computer Science,Term 2,53,73,11,12
+9,Student_9,Grade 11,Geography,Term 1,62,88,6,12
+9,Student_9,Grade 11,Geography,Term 2,100,81,6,12
+10,Student_10,Grade 9,Math,Term 1,88,89,9,12
+10,Student_10,Grade 9,Math,Term 2,90,82,5,12
+10,Student_10,Grade 9,Science,Term 1,58,73,10,12
+10,Student_10,Grade 9,Science,Term 2,92,78,10,12
+10,Student_10,Grade 9,English,Term 1,68,91,11,12
+10,Student_10,Grade 9,English,Term 2,90,85,6,12
+10,Student_10,Grade 9,History,Term 1,84,75,9,12
+10,Student_10,Grade 9,History,Term 2,48,71,6,12
+10,Student_10,Grade 9,Computer Science,Term 1,81,78,12,12
+10,Student_10,Grade 9,Computer Science,Term 2,52,94,6,12
+10,Student_10,Grade 9,Geography,Term 1,80,99,10,12
+10,Student_10,Grade 9,Geography,Term 2,70,97,6,12
+11,Student_11,Grade 11,Math,Term 1,94,76,11,12
+11,Student_11,Grade 11,Math,Term 2,71,78,5,12
+11,Student_11,Grade 11,Science,Term 1,77,84,7,12
+11,Student_11,Grade 11,Science,Term 2,90,90,7,12
+11,Student_11,Grade 11,English,Term 1,56,77,11,12
+11,Student_11,Grade 11,English,Term 2,98,80,7,12
+11,Student_11,Grade 11,History,Term 1,59,77,9,12
+11,Student_11,Grade 11,History,Term 2,87,98,12,12
+11,Student_11,Grade 11,Computer Science,Term 1,68,97,10,12
+11,Student_11,Grade 11,Computer Science,Term 2,68,91,11,12
+11,Student_11,Grade 11,Geography,Term 1,74,93,11,12
+11,Student_11,Grade 11,Geography,Term 2,85,98,5,12
+12,Student_12,Grade 10,Math,Term 1,89,71,12,12
+12,Student_12,Grade 10,Math,Term 2,61,77,8,12
+12,Student_12,Grade 10,Science,Term 1,59,96,7,12
+12,Student_12,Grade 10,Science,Term 2,99,83,12,12
+12,Student_12,Grade 10,English,Term 1,75,82,10,12
+12,Student_12,Grade 10,English,Term 2,84,100,7,12
+12,Student_12,Grade 10,History,Term 1,99,94,11,12
+12,Student_12,Grade 10,History,Term 2,63,96,8,12
+12,Student_12,Grade 10,Computer Science,Term 1,83,87,6,12
+12,Student_12,Grade 10,Computer Science,Term 2,89,73,11,12
+12,Student_12,Grade 10,Geography,Term 1,99,80,6,12
+12,Student_12,Grade 10,Geography,Term 2,84,85,8,12
+13,Student_13,Grade 10,Math,Term 1,63,72,7,12
+13,Student_13,Grade 10,Math,Term 2,66,94,8,12
+13,Student_13,Grade 10,Science,Term 1,59,90,7,12
+13,Student_13,Grade 10,Science,Term 2,56,95,8,12
+13,Student_13,Grade 10,English,Term 1,54,88,5,12
+13,Student_13,Grade 10,English,Term 2,48,71,11,12
+13,Student_13,Grade 10,History,Term 1,62,89,7,12
+13,Student_13,Grade 10,History,Term 2,49,80,10,12
+13,Student_13,Grade 10,Computer Science,Term 1,87,75,9,12
+13,Student_13,Grade 10,Computer Science,Term 2,99,82,12,12
+13,Student_13,Grade 10,Geography,Term 1,70,78,10,12
+13,Student_13,Grade 10,Geography,Term 2,49,78,6,12
+14,Student_14,Grade 10,Math,Term 1,64,74,7,12
+14,Student_14,Grade 10,Math,Term 2,71,100,9,12
+14,Student_14,Grade 10,Science,Term 1,80,79,8,12
+14,Student_14,Grade 10,Science,Term 2,57,79,10,12
+14,Student_14,Grade 10,English,Term 1,59,71,11,12
+14,Student_14,Grade 10,English,Term 2,74,87,8,12
+14,Student_14,Grade 10,History,Term 1,58,95,10,12
+14,Student_14,Grade 10,History,Term 2,68,88,7,12
+14,Student_14,Grade 10,Computer Science,Term 1,70,86,7,12
+14,Student_14,Grade 10,Computer Science,Term 2,69,92,6,12
+14,Student_14,Grade 10,Geography,Term 1,65,75,10,12
+14,Student_14,Grade 10,Geography,Term 2,56,78,12,12
+15,Student_15,Grade 10,Math,Term 1,67,74,11,12
+15,Student_15,Grade 10,Math,Term 2,48,87,5,12
+15,Student_15,Grade 10,Science,Term 1,74,96,9,12
+15,Student_15,Grade 10,Science,Term 2,75,72,12,12
+15,Student_15,Grade 10,English,Term 1,84,94,5,12
+15,Student_15,Grade 10,English,Term 2,74,83,5,12
+15,Student_15,Grade 10,History,Term 1,77,88,11,12
+15,Student_15,Grade 10,History,Term 2,59,76,9,12
+15,Student_15,Grade 10,Computer Science,Term 1,68,84,5,12
+15,Student_15,Grade 10,Computer Science,Term 2,66,84,8,12
+15,Student_15,Grade 10,Geography,Term 1,94,88,7,12
+15,Student_15,Grade 10,Geography,Term 2,66,84,5,12
+16,Student_16,Grade 10,Math,Term 1,91,96,6,12
+16,Student_16,Grade 10,Math,Term 2,91,76,7,12
+16,Student_16,Grade 10,Science,Term 1,87,82,12,12
+16,Student_16,Grade 10,Science,Term 2,90,92,11,12
+16,Student_16,Grade 10,English,Term 1,97,84,9,12
+16,Student_16,Grade 10,English,Term 2,68,73,8,12
+16,Student_16,Grade 10,History,Term 1,97,73,9,12
+16,Student_16,Grade 10,History,Term 2,86,98,5,12
+16,Student_16,Grade 10,Computer Science,Term 1,77,73,11,12
+16,Student_16,Grade 10,Computer Science,Term 2,96,98,6,12
+16,Student_16,Grade 10,Geography,Term 1,89,83,7,12
+16,Student_16,Grade 10,Geography,Term 2,80,87,12,12
+17,Student_17,Grade 9,Math,Term 1,79,83,10,12
+17,Student_17,Grade 9,Math,Term 2,65,88,12,12
+17,Student_17,Grade 9,Science,Term 1,81,84,9,12
+17,Student_17,Grade 9,Science,Term 2,62,73,6,12
+17,Student_17,Grade 9,English,Term 1,91,95,8,12
+17,Student_17,Grade 9,English,Term 2,95,94,11,12
+17,Student_17,Grade 9,History,Term 1,98,79,11,12
+17,Student_17,Grade 9,History,Term 2,79,73,8,12
+17,Student_17,Grade 9,Computer Science,Term 1,56,86,7,12
+17,Student_17,Grade 9,Computer Science,Term 2,95,77,8,12
+17,Student_17,Grade 9,Geography,Term 1,77,94,5,12
+17,Student_17,Grade 9,Geography,Term 2,60,84,9,12
+18,Student_18,Grade 11,Math,Term 1,76,92,11,12
+18,Student_18,Grade 11,Math,Term 2,76,81,10,12
+18,Student_18,Grade 11,Science,Term 1,78,87,12,12
+18,Student_18,Grade 11,Science,Term 2,96,78,6,12
+18,Student_18,Grade 11,English,Term 1,100,91,7,12
+18,Student_18,Grade 11,English,Term 2,92,99,5,12
+18,Student_18,Grade 11,History,Term 1,64,84,5,12
+18,Student_18,Grade 11,History,Term 2,48,83,9,12
+18,Student_18,Grade 11,Computer Science,Term 1,51,97,5,12
+18,Student_18,Grade 11,Computer Science,Term 2,100,76,9,12
+18,Student_18,Grade 11,Geography,Term 1,45,75,8,12
+18,Student_18,Grade 11,Geography,Term 2,94,88,10,12
+19,Student_19,Grade 9,Math,Term 1,97,86,6,12
+19,Student_19,Grade 9,Math,Term 2,90,71,8,12
+19,Student_19,Grade 9,Science,Term 1,80,97,11,12
+19,Student_19,Grade 9,Science,Term 2,94,75,9,12
+19,Student_19,Grade 9,English,Term 1,94,78,8,12
+19,Student_19,Grade 9,English,Term 2,79,96,11,12
+19,Student_19,Grade 9,History,Term 1,49,93,9,12
+19,Student_19,Grade 9,History,Term 2,85,96,8,12
+19,Student_19,Grade 9,Computer Science,Term 1,92,91,7,12
+19,Student_19,Grade 9,Computer Science,Term 2,85,76,5,12
+19,Student_19,Grade 9,Geography,Term 1,67,94,7,12
+19,Student_19,Grade 9,Geography,Term 2,57,90,6,12
+20,Student_20,Grade 9,Math,Term 1,72,80,6,12
+20,Student_20,Grade 9,Math,Term 2,87,72,5,12
+20,Student_20,Grade 9,Science,Term 1,84,75,10,12
+20,Student_20,Grade 9,Science,Term 2,94,98,12,12
+20,Student_20,Grade 9,English,Term 1,73,70,6,12
+20,Student_20,Grade 9,English,Term 2,94,87,12,12
+20,Student_20,Grade 9,History,Term 1,47,89,5,12
+20,Student_20,Grade 9,History,Term 2,65,79,6,12
+20,Student_20,Grade 9,Computer Science,Term 1,67,100,8,12
+20,Student_20,Grade 9,Computer Science,Term 2,57,91,5,12
+20,Student_20,Grade 9,Geography,Term 1,70,97,12,12
+20,Student_20,Grade 9,Geography,Term 2,86,76,5,12
+21,Student_21,Grade 9,Math,Term 1,96,72,12,12
+21,Student_21,Grade 9,Math,Term 2,88,87,6,12
+21,Student_21,Grade 9,Science,Term 1,45,97,5,12
+21,Student_21,Grade 9,Science,Term 2,75,75,8,12
+21,Student_21,Grade 9,English,Term 1,48,92,12,12
+21,Student_21,Grade 9,English,Term 2,79,90,7,12
+21,Student_21,Grade 9,History,Term 1,92,82,11,12
+21,Student_21,Grade 9,History,Term 2,74,93,9,12
+21,Student_21,Grade 9,Computer Science,Term 1,51,88,7,12
+21,Student_21,Grade 9,Computer Science,Term 2,47,90,10,12
+21,Student_21,Grade 9,Geography,Term 1,65,78,7,12
+21,Student_21,Grade 9,Geography,Term 2,83,91,7,12
+22,Student_22,Grade 9,Math,Term 1,57,99,6,12
+22,Student_22,Grade 9,Math,Term 2,51,87,7,12
+22,Student_22,Grade 9,Science,Term 1,87,96,10,12
+22,Student_22,Grade 9,Science,Term 2,71,78,11,12
+22,Student_22,Grade 9,English,Term 1,62,80,6,12
+22,Student_22,Grade 9,English,Term 2,78,81,11,12
+22,Student_22,Grade 9,History,Term 1,52,96,6,12
+22,Student_22,Grade 9,History,Term 2,93,77,12,12
+22,Student_22,Grade 9,Computer Science,Term 1,75,92,7,12
+22,Student_22,Grade 9,Computer Science,Term 2,83,79,11,12
+22,Student_22,Grade 9,Geography,Term 1,50,97,11,12
+22,Student_22,Grade 9,Geography,Term 2,94,79,5,12
+23,Student_23,Grade 11,Math,Term 1,75,99,5,12
+23,Student_23,Grade 11,Math,Term 2,45,80,12,12
+23,Student_23,Grade 11,Science,Term 1,87,79,10,12
+23,Student_23,Grade 11,Science,Term 2,84,70,12,12
+23,Student_23,Grade 11,English,Term 1,85,75,12,12
+23,Student_23,Grade 11,English,Term 2,74,87,8,12
+23,Student_23,Grade 11,History,Term 1,58,87,6,12
+23,Student_23,Grade 11,History,Term 2,92,71,5,12
+23,Student_23,Grade 11,Computer Science,Term 1,88,73,11,12
+23,Student_23,Grade 11,Computer Science,Term 2,81,91,7,12
+23,Student_23,Grade 11,Geography,Term 1,71,73,12,12
+23,Student_23,Grade 11,Geography,Term 2,75,79,9,12
+24,Student_24,Grade 10,Math,Term 1,79,89,5,12
+24,Student_24,Grade 10,Math,Term 2,75,88,6,12
+24,Student_24,Grade 10,Science,Term 1,54,95,7,12
+24,Student_24,Grade 10,Science,Term 2,51,72,9,12
+24,Student_24,Grade 10,English,Term 1,65,92,11,12
+24,Student_24,Grade 10,English,Term 2,91,70,6,12
+24,Student_24,Grade 10,History,Term 1,72,79,12,12
+24,Student_24,Grade 10,History,Term 2,47,97,9,12
+24,Student_24,Grade 10,Computer Science,Term 1,93,84,6,12
+24,Student_24,Grade 10,Computer Science,Term 2,69,70,7,12
+24,Student_24,Grade 10,Geography,Term 1,76,84,10,12
+24,Student_24,Grade 10,Geography,Term 2,85,74,5,12
+25,Student_25,Grade 11,Math,Term 1,95,76,6,12
+25,Student_25,Grade 11,Math,Term 2,96,99,9,12
+25,Student_25,Grade 11,Science,Term 1,69,85,8,12
+25,Student_25,Grade 11,Science,Term 2,81,72,9,12
+25,Student_25,Grade 11,English,Term 1,99,87,10,12
+25,Student_25,Grade 11,English,Term 2,51,70,5,12
+25,Student_25,Grade 11,History,Term 1,61,77,8,12
+25,Student_25,Grade 11,History,Term 2,67,75,9,12
+25,Student_25,Grade 11,Computer Science,Term 1,67,90,11,12
+25,Student_25,Grade 11,Computer Science,Term 2,76,96,12,12
+25,Student_25,Grade 11,Geography,Term 1,99,70,9,12
+25,Student_25,Grade 11,Geography,Term 2,100,73,5,12
+26,Student_26,Grade 11,Math,Term 1,88,87,9,12
+26,Student_26,Grade 11,Math,Term 2,82,78,9,12
+26,Student_26,Grade 11,Science,Term 1,92,99,7,12
+26,Student_26,Grade 11,Science,Term 2,54,72,10,12
+26,Student_26,Grade 11,English,Term 1,63,92,6,12
+26,Student_26,Grade 11,English,Term 2,61,93,8,12
+26,Student_26,Grade 11,History,Term 1,77,78,6,12
+26,Student_26,Grade 11,History,Term 2,84,87,12,12
+26,Student_26,Grade 11,Computer Science,Term 1,77,89,7,12
+26,Student_26,Grade 11,Computer Science,Term 2,63,87,12,12
+26,Student_26,Grade 11,Geography,Term 1,56,76,9,12
+26,Student_26,Grade 11,Geography,Term 2,66,80,8,12
+27,Student_27,Grade 9,Math,Term 1,94,74,5,12
+27,Student_27,Grade 9,Math,Term 2,90,70,12,12
+27,Student_27,Grade 9,Science,Term 1,76,97,7,12
+27,Student_27,Grade 9,Science,Term 2,75,75,8,12
+27,Student_27,Grade 9,English,Term 1,96,73,11,12
+27,Student_27,Grade 9,English,Term 2,71,93,11,12
+27,Student_27,Grade 9,History,Term 1,74,83,5,12
+27,Student_27,Grade 9,History,Term 2,62,86,12,12
+27,Student_27,Grade 9,Computer Science,Term 1,98,80,10,12
+27,Student_27,Grade 9,Computer Science,Term 2,69,73,8,12
+27,Student_27,Grade 9,Geography,Term 1,55,96,8,12
+27,Student_27,Grade 9,Geography,Term 2,74,94,12,12
+28,Student_28,Grade 9,Math,Term 1,95,91,6,12
+28,Student_28,Grade 9,Math,Term 2,47,75,5,12
+28,Student_28,Grade 9,Science,Term 1,88,86,7,12
+28,Student_28,Grade 9,Science,Term 2,53,71,7,12
+28,Student_28,Grade 9,English,Term 1,94,99,7,12
+28,Student_28,Grade 9,English,Term 2,49,77,8,12
+28,Student_28,Grade 9,History,Term 1,100,77,11,12
+28,Student_28,Grade 9,History,Term 2,48,89,10,12
+28,Student_28,Grade 9,Computer Science,Term 1,65,87,11,12
+28,Student_28,Grade 9,Computer Science,Term 2,50,98,7,12
+28,Student_28,Grade 9,Geography,Term 1,72,70,12,12
+28,Student_28,Grade 9,Geography,Term 2,92,97,12,12
+29,Student_29,Grade 10,Math,Term 1,98,83,5,12
+29,Student_29,Grade 10,Math,Term 2,70,93,6,12
+29,Student_29,Grade 10,Science,Term 1,71,86,8,12
+29,Student_29,Grade 10,Science,Term 2,99,72,12,12
+29,Student_29,Grade 10,English,Term 1,57,92,8,12
+29,Student_29,Grade 10,English,Term 2,56,85,7,12
+29,Student_29,Grade 10,History,Term 1,80,94,11,12
+29,Student_29,Grade 10,History,Term 2,83,98,10,12
+29,Student_29,Grade 10,Computer Science,Term 1,92,85,5,12
+29,Student_29,Grade 10,Computer Science,Term 2,65,84,6,12
+29,Student_29,Grade 10,Geography,Term 1,78,80,10,12
+29,Student_29,Grade 10,Geography,Term 2,90,77,11,12
+30,Student_30,Grade 9,Math,Term 1,53,78,7,12
+30,Student_30,Grade 9,Math,Term 2,62,82,10,12
+30,Student_30,Grade 9,Science,Term 1,65,77,10,12
+30,Student_30,Grade 9,Science,Term 2,100,98,10,12
+30,Student_30,Grade 9,English,Term 1,75,85,9,12
+30,Student_30,Grade 9,English,Term 2,48,72,6,12
+30,Student_30,Grade 9,History,Term 1,60,87,9,12
+30,Student_30,Grade 9,History,Term 2,88,83,11,12
+30,Student_30,Grade 9,Computer Science,Term 1,46,88,8,12
+30,Student_30,Grade 9,Computer Science,Term 2,69,79,12,12
+30,Student_30,Grade 9,Geography,Term 1,56,84,6,12
+30,Student_30,Grade 9,Geography,Term 2,66,98,9,12
+31,Student_31,Grade 9,Math,Term 1,86,94,10,12
+31,Student_31,Grade 9,Math,Term 2,66,98,5,12
+31,Student_31,Grade 9,Science,Term 1,90,97,7,12
+31,Student_31,Grade 9,Science,Term 2,90,73,7,12
+31,Student_31,Grade 9,English,Term 1,56,77,7,12
+31,Student_31,Grade 9,English,Term 2,46,75,5,12
+31,Student_31,Grade 9,History,Term 1,59,99,6,12
+31,Student_31,Grade 9,History,Term 2,88,76,10,12
+31,Student_31,Grade 9,Computer Science,Term 1,87,71,10,12
+31,Student_31,Grade 9,Computer Science,Term 2,92,79,11,12
+31,Student_31,Grade 9,Geography,Term 1,50,77,11,12
+31,Student_31,Grade 9,Geography,Term 2,88,99,11,12
+32,Student_32,Grade 11,Math,Term 1,85,75,11,12
+32,Student_32,Grade 11,Math,Term 2,87,82,11,12
+32,Student_32,Grade 11,Science,Term 1,99,99,5,12
+32,Student_32,Grade 11,Science,Term 2,94,93,9,12
+32,Student_32,Grade 11,English,Term 1,92,84,9,12
+32,Student_32,Grade 11,English,Term 2,74,81,10,12
+32,Student_32,Grade 11,History,Term 1,48,78,12,12
+32,Student_32,Grade 11,History,Term 2,83,72,12,12
+32,Student_32,Grade 11,Computer Science,Term 1,75,80,12,12
+32,Student_32,Grade 11,Computer Science,Term 2,97,87,6,12
+32,Student_32,Grade 11,Geography,Term 1,48,94,10,12
+32,Student_32,Grade 11,Geography,Term 2,82,71,11,12
+33,Student_33,Grade 11,Math,Term 1,59,96,8,12
+33,Student_33,Grade 11,Math,Term 2,63,89,9,12
+33,Student_33,Grade 11,Science,Term 1,82,72,5,12
+33,Student_33,Grade 11,Science,Term 2,79,94,5,12
+33,Student_33,Grade 11,English,Term 1,57,84,12,12
+33,Student_33,Grade 11,English,Term 2,85,97,12,12
+33,Student_33,Grade 11,History,Term 1,67,84,10,12
+33,Student_33,Grade 11,History,Term 2,48,97,6,12
+33,Student_33,Grade 11,Computer Science,Term 1,88,100,7,12
+33,Student_33,Grade 11,Computer Science,Term 2,55,78,11,12
+33,Student_33,Grade 11,Geography,Term 1,54,92,7,12
+33,Student_33,Grade 11,Geography,Term 2,84,89,6,12
+34,Student_34,Grade 10,Math,Term 1,69,72,5,12
+34,Student_34,Grade 10,Math,Term 2,83,81,8,12
+34,Student_34,Grade 10,Science,Term 1,86,72,5,12
+34,Student_34,Grade 10,Science,Term 2,86,97,7,12
+34,Student_34,Grade 10,English,Term 1,57,83,7,12
+34,Student_34,Grade 10,English,Term 2,89,80,12,12
+34,Student_34,Grade 10,History,Term 1,61,88,6,12
+34,Student_34,Grade 10,History,Term 2,80,81,8,12
+34,Student_34,Grade 10,Computer Science,Term 1,69,91,12,12
+34,Student_34,Grade 10,Computer Science,Term 2,52,93,10,12
+34,Student_34,Grade 10,Geography,Term 1,55,100,12,12
+34,Student_34,Grade 10,Geography,Term 2,52,72,12,12
+35,Student_35,Grade 9,Math,Term 1,51,76,9,12
+35,Student_35,Grade 9,Math,Term 2,63,76,6,12
+35,Student_35,Grade 9,Science,Term 1,83,84,11,12
+35,Student_35,Grade 9,Science,Term 2,94,95,9,12
+35,Student_35,Grade 9,English,Term 1,76,77,11,12
+35,Student_35,Grade 9,English,Term 2,71,70,10,12
+35,Student_35,Grade 9,History,Term 1,81,99,6,12
+35,Student_35,Grade 9,History,Term 2,100,83,11,12
+35,Student_35,Grade 9,Computer Science,Term 1,90,91,8,12
+35,Student_35,Grade 9,Computer Science,Term 2,64,79,11,12
+35,Student_35,Grade 9,Geography,Term 1,54,81,12,12
+35,Student_35,Grade 9,Geography,Term 2,56,100,5,12
+36,Student_36,Grade 10,Math,Term 1,58,79,11,12
+36,Student_36,Grade 10,Math,Term 2,81,81,10,12
+36,Student_36,Grade 10,Science,Term 1,53,71,12,12
+36,Student_36,Grade 10,Science,Term 2,92,97,10,12
+36,Student_36,Grade 10,English,Term 1,92,70,10,12
+36,Student_36,Grade 10,English,Term 2,60,83,10,12
+36,Student_36,Grade 10,History,Term 1,64,100,10,12
+36,Student_36,Grade 10,History,Term 2,54,92,12,12
+36,Student_36,Grade 10,Computer Science,Term 1,75,94,6,12
+36,Student_36,Grade 10,Computer Science,Term 2,75,75,9,12
+36,Student_36,Grade 10,Geography,Term 1,60,87,11,12
+36,Student_36,Grade 10,Geography,Term 2,57,82,12,12
+37,Student_37,Grade 9,Math,Term 1,80,76,7,12
+37,Student_37,Grade 9,Math,Term 2,53,88,5,12
+37,Student_37,Grade 9,Science,Term 1,50,84,5,12
+37,Student_37,Grade 9,Science,Term 2,99,86,7,12
+37,Student_37,Grade 9,English,Term 1,96,70,10,12
+37,Student_37,Grade 9,English,Term 2,70,71,10,12
+37,Student_37,Grade 9,History,Term 1,96,81,9,12
+37,Student_37,Grade 9,History,Term 2,86,81,8,12
+37,Student_37,Grade 9,Computer Science,Term 1,58,85,7,12
+37,Student_37,Grade 9,Computer Science,Term 2,94,72,7,12
+37,Student_37,Grade 9,Geography,Term 1,51,92,12,12
+37,Student_37,Grade 9,Geography,Term 2,62,73,12,12
+38,Student_38,Grade 11,Math,Term 1,73,96,12,12
+38,Student_38,Grade 11,Math,Term 2,48,72,6,12
+38,Student_38,Grade 11,Science,Term 1,86,71,9,12
+38,Student_38,Grade 11,Science,Term 2,64,99,9,12
+38,Student_38,Grade 11,English,Term 1,75,79,7,12
+38,Student_38,Grade 11,English,Term 2,60,70,12,12
+38,Student_38,Grade 11,History,Term 1,53,95,5,12
+38,Student_38,Grade 11,History,Term 2,46,81,12,12
+38,Student_38,Grade 11,Computer Science,Term 1,92,93,6,12
+38,Student_38,Grade 11,Computer Science,Term 2,91,82,5,12
+38,Student_38,Grade 11,Geography,Term 1,81,80,5,12
+38,Student_38,Grade 11,Geography,Term 2,89,88,7,12
+39,Student_39,Grade 10,Math,Term 1,68,90,8,12
+39,Student_39,Grade 10,Math,Term 2,47,87,8,12
+39,Student_39,Grade 10,Science,Term 1,82,73,12,12
+39,Student_39,Grade 10,Science,Term 2,95,96,11,12
+39,Student_39,Grade 10,English,Term 1,58,91,5,12
+39,Student_39,Grade 10,English,Term 2,70,96,9,12
+39,Student_39,Grade 10,History,Term 1,79,96,11,12
+39,Student_39,Grade 10,History,Term 2,71,99,9,12
+39,Student_39,Grade 10,Computer Science,Term 1,96,91,9,12
+39,Student_39,Grade 10,Computer Science,Term 2,97,74,10,12
+39,Student_39,Grade 10,Geography,Term 1,81,83,11,12
+39,Student_39,Grade 10,Geography,Term 2,47,81,9,12
+40,Student_40,Grade 10,Math,Term 1,96,84,12,12
+40,Student_40,Grade 10,Math,Term 2,46,76,11,12
+40,Student_40,Grade 10,Science,Term 1,76,75,10,12
+40,Student_40,Grade 10,Science,Term 2,91,99,11,12
+40,Student_40,Grade 10,English,Term 1,100,96,9,12
+40,Student_40,Grade 10,English,Term 2,91,91,6,12
+40,Student_40,Grade 10,History,Term 1,90,93,5,12
+40,Student_40,Grade 10,History,Term 2,66,98,11,12
+40,Student_40,Grade 10,Computer Science,Term 1,88,71,12,12
+40,Student_40,Grade 10,Computer Science,Term 2,52,70,11,12
+40,Student_40,Grade 10,Geography,Term 1,98,72,6,12
+40,Student_40,Grade 10,Geography,Term 2,63,97,10,12
+41,Student_41,Grade 10,Math,Term 1,70,90,11,12
+41,Student_41,Grade 10,Math,Term 2,78,80,12,12
+41,Student_41,Grade 10,Science,Term 1,83,80,7,12
+41,Student_41,Grade 10,Science,Term 2,70,88,11,12
+41,Student_41,Grade 10,English,Term 1,63,76,8,12
+41,Student_41,Grade 10,English,Term 2,82,84,7,12
+41,Student_41,Grade 10,History,Term 1,67,74,9,12
+41,Student_41,Grade 10,History,Term 2,83,88,7,12
+41,Student_41,Grade 10,Computer Science,Term 1,96,86,6,12
+41,Student_41,Grade 10,Computer Science,Term 2,74,96,9,12
+41,Student_41,Grade 10,Geography,Term 1,100,95,11,12
+41,Student_41,Grade 10,Geography,Term 2,96,85,8,12
+42,Student_42,Grade 11,Math,Term 1,99,96,7,12
+42,Student_42,Grade 11,Math,Term 2,48,82,7,12
+42,Student_42,Grade 11,Science,Term 1,97,80,6,12
+42,Student_42,Grade 11,Science,Term 2,52,87,8,12
+42,Student_42,Grade 11,English,Term 1,77,87,7,12
+42,Student_42,Grade 11,English,Term 2,73,72,6,12
+42,Student_42,Grade 11,History,Term 1,79,97,12,12
+42,Student_42,Grade 11,History,Term 2,56,80,11,12
+42,Student_42,Grade 11,Computer Science,Term 1,45,84,9,12
+42,Student_42,Grade 11,Computer Science,Term 2,51,80,6,12
+42,Student_42,Grade 11,Geography,Term 1,87,98,5,12
+42,Student_42,Grade 11,Geography,Term 2,71,87,9,12
+43,Student_43,Grade 11,Math,Term 1,50,89,10,12
+43,Student_43,Grade 11,Math,Term 2,100,90,9,12
+43,Student_43,Grade 11,Science,Term 1,84,91,8,12
+43,Student_43,Grade 11,Science,Term 2,72,72,7,12
+43,Student_43,Grade 11,English,Term 1,88,89,11,12
+43,Student_43,Grade 11,English,Term 2,54,80,10,12
+43,Student_43,Grade 11,History,Term 1,64,89,6,12
+43,Student_43,Grade 11,History,Term 2,54,97,6,12
+43,Student_43,Grade 11,Computer Science,Term 1,67,74,7,12
+43,Student_43,Grade 11,Computer Science,Term 2,51,89,10,12
+43,Student_43,Grade 11,Geography,Term 1,62,75,6,12
+43,Student_43,Grade 11,Geography,Term 2,69,77,6,12
+44,Student_44,Grade 9,Math,Term 1,69,78,11,12
+44,Student_44,Grade 9,Math,Term 2,100,94,10,12
+44,Student_44,Grade 9,Science,Term 1,61,85,12,12
+44,Student_44,Grade 9,Science,Term 2,80,92,6,12
+44,Student_44,Grade 9,English,Term 1,59,77,6,12
+44,Student_44,Grade 9,English,Term 2,73,98,5,12
+44,Student_44,Grade 9,History,Term 1,67,94,11,12
+44,Student_44,Grade 9,History,Term 2,45,89,8,12
+44,Student_44,Grade 9,Computer Science,Term 1,50,95,7,12
+44,Student_44,Grade 9,Computer Science,Term 2,79,88,8,12
+44,Student_44,Grade 9,Geography,Term 1,52,71,9,12
+44,Student_44,Grade 9,Geography,Term 2,90,89,7,12
+45,Student_45,Grade 10,Math,Term 1,59,95,7,12
+45,Student_45,Grade 10,Math,Term 2,85,96,11,12
+45,Student_45,Grade 10,Science,Term 1,76,77,9,12
+45,Student_45,Grade 10,Science,Term 2,84,81,8,12
+45,Student_45,Grade 10,English,Term 1,73,86,9,12
+45,Student_45,Grade 10,English,Term 2,58,74,10,12
+45,Student_45,Grade 10,History,Term 1,88,98,9,12
+45,Student_45,Grade 10,History,Term 2,59,88,11,12
+45,Student_45,Grade 10,Computer Science,Term 1,98,71,12,12
+45,Student_45,Grade 10,Computer Science,Term 2,54,85,10,12
+45,Student_45,Grade 10,Geography,Term 1,86,75,7,12
+45,Student_45,Grade 10,Geography,Term 2,63,96,11,12
+46,Student_46,Grade 9,Math,Term 1,50,81,9,12
+46,Student_46,Grade 9,Math,Term 2,49,79,12,12
+46,Student_46,Grade 9,Science,Term 1,68,77,9,12
+46,Student_46,Grade 9,Science,Term 2,81,81,6,12
+46,Student_46,Grade 9,English,Term 1,59,97,5,12
+46,Student_46,Grade 9,English,Term 2,60,99,11,12
+46,Student_46,Grade 9,History,Term 1,71,100,10,12
+46,Student_46,Grade 9,History,Term 2,58,94,12,12
+46,Student_46,Grade 9,Computer Science,Term 1,55,88,7,12
+46,Student_46,Grade 9,Computer Science,Term 2,76,82,5,12
+46,Student_46,Grade 9,Geography,Term 1,98,96,9,12
+46,Student_46,Grade 9,Geography,Term 2,89,83,9,12
+47,Student_47,Grade 10,Math,Term 1,64,95,10,12
+47,Student_47,Grade 10,Math,Term 2,88,93,6,12
+47,Student_47,Grade 10,Science,Term 1,67,100,12,12
+47,Student_47,Grade 10,Science,Term 2,88,88,11,12
+47,Student_47,Grade 10,English,Term 1,99,71,8,12
+47,Student_47,Grade 10,English,Term 2,65,100,10,12
+47,Student_47,Grade 10,History,Term 1,98,83,9,12
+47,Student_47,Grade 10,History,Term 2,74,80,8,12
+47,Student_47,Grade 10,Computer Science,Term 1,93,81,12,12
+47,Student_47,Grade 10,Computer Science,Term 2,54,84,10,12
+47,Student_47,Grade 10,Geography,Term 1,68,91,10,12
+47,Student_47,Grade 10,Geography,Term 2,99,86,10,12
+48,Student_48,Grade 10,Math,Term 1,93,96,11,12
+48,Student_48,Grade 10,Math,Term 2,86,86,5,12
+48,Student_48,Grade 10,Science,Term 1,49,90,10,12
+48,Student_48,Grade 10,Science,Term 2,67,89,9,12
+48,Student_48,Grade 10,English,Term 1,53,95,10,12
+48,Student_48,Grade 10,English,Term 2,94,95,8,12
+48,Student_48,Grade 10,History,Term 1,46,90,10,12
+48,Student_48,Grade 10,History,Term 2,96,81,6,12
+48,Student_48,Grade 10,Computer Science,Term 1,71,91,8,12
+48,Student_48,Grade 10,Computer Science,Term 2,53,78,12,12
+48,Student_48,Grade 10,Geography,Term 1,76,90,10,12
+48,Student_48,Grade 10,Geography,Term 2,71,75,6,12
+49,Student_49,Grade 9,Math,Term 1,46,72,6,12
+49,Student_49,Grade 9,Math,Term 2,52,81,5,12
+49,Student_49,Grade 9,Science,Term 1,85,98,9,12
+49,Student_49,Grade 9,Science,Term 2,64,82,8,12
+49,Student_49,Grade 9,English,Term 1,55,72,5,12
+49,Student_49,Grade 9,English,Term 2,69,73,8,12
+49,Student_49,Grade 9,History,Term 1,72,91,7,12
+49,Student_49,Grade 9,History,Term 2,92,88,7,12
+49,Student_49,Grade 9,Computer Science,Term 1,70,88,10,12
+49,Student_49,Grade 9,Computer Science,Term 2,97,99,9,12
+49,Student_49,Grade 9,Geography,Term 1,85,94,12,12
+49,Student_49,Grade 9,Geography,Term 2,94,100,6,12
+50,Student_50,Grade 11,Math,Term 1,71,89,8,12
+50,Student_50,Grade 11,Math,Term 2,96,91,11,12
+50,Student_50,Grade 11,Science,Term 1,58,70,5,12
+50,Student_50,Grade 11,Science,Term 2,57,88,12,12
+50,Student_50,Grade 11,English,Term 1,88,94,6,12
+50,Student_50,Grade 11,English,Term 2,81,98,12,12
+50,Student_50,Grade 11,History,Term 1,51,70,8,12
+50,Student_50,Grade 11,History,Term 2,92,71,11,12
+50,Student_50,Grade 11,Computer Science,Term 1,85,70,6,12
+50,Student_50,Grade 11,Computer Science,Term 2,79,76,8,12
+50,Student_50,Grade 11,Geography,Term 1,90,75,6,12
+50,Student_50,Grade 11,Geography,Term 2,71,100,10,12
+51,Student_51,Grade 10,Math,Term 1,48,91,10,12
+51,Student_51,Grade 10,Math,Term 2,80,92,5,12
+51,Student_51,Grade 10,Science,Term 1,66,77,5,12
+51,Student_51,Grade 10,Science,Term 2,79,78,6,12
+51,Student_51,Grade 10,English,Term 1,85,88,9,12
+51,Student_51,Grade 10,English,Term 2,59,84,9,12
+51,Student_51,Grade 10,History,Term 1,53,87,12,12
+51,Student_51,Grade 10,History,Term 2,93,83,7,12
+51,Student_51,Grade 10,Computer Science,Term 1,79,91,12,12
+51,Student_51,Grade 10,Computer Science,Term 2,50,87,11,12
+51,Student_51,Grade 10,Geography,Term 1,98,74,6,12
+51,Student_51,Grade 10,Geography,Term 2,63,83,6,12
+52,Student_52,Grade 9,Math,Term 1,86,87,12,12
+52,Student_52,Grade 9,Math,Term 2,73,79,5,12
+52,Student_52,Grade 9,Science,Term 1,96,94,5,12
+52,Student_52,Grade 9,Science,Term 2,47,97,6,12
+52,Student_52,Grade 9,English,Term 1,97,76,6,12
+52,Student_52,Grade 9,English,Term 2,63,79,12,12
+52,Student_52,Grade 9,History,Term 1,60,90,5,12
+52,Student_52,Grade 9,History,Term 2,93,79,5,12
+52,Student_52,Grade 9,Computer Science,Term 1,58,86,9,12
+52,Student_52,Grade 9,Computer Science,Term 2,59,86,12,12
+52,Student_52,Grade 9,Geography,Term 1,77,87,5,12
+52,Student_52,Grade 9,Geography,Term 2,64,92,11,12
+53,Student_53,Grade 10,Math,Term 1,46,93,7,12
+53,Student_53,Grade 10,Math,Term 2,61,91,8,12
+53,Student_53,Grade 10,Science,Term 1,60,86,11,12
+53,Student_53,Grade 10,Science,Term 2,55,87,10,12
+53,Student_53,Grade 10,English,Term 1,72,90,8,12
+53,Student_53,Grade 10,English,Term 2,57,73,5,12
+53,Student_53,Grade 10,History,Term 1,54,73,7,12
+53,Student_53,Grade 10,History,Term 2,92,80,12,12
+53,Student_53,Grade 10,Computer Science,Term 1,69,95,6,12
+53,Student_53,Grade 10,Computer Science,Term 2,58,77,9,12
+53,Student_53,Grade 10,Geography,Term 1,60,84,10,12
+53,Student_53,Grade 10,Geography,Term 2,53,77,12,12
+54,Student_54,Grade 9,Math,Term 1,59,91,6,12
+54,Student_54,Grade 9,Math,Term 2,52,71,10,12
+54,Student_54,Grade 9,Science,Term 1,84,76,5,12
+54,Student_54,Grade 9,Science,Term 2,92,96,10,12
+54,Student_54,Grade 9,English,Term 1,58,87,6,12
+54,Student_54,Grade 9,English,Term 2,76,83,5,12
+54,Student_54,Grade 9,History,Term 1,72,83,12,12
+54,Student_54,Grade 9,History,Term 2,62,81,8,12
+54,Student_54,Grade 9,Computer Science,Term 1,75,74,9,12
+54,Student_54,Grade 9,Computer Science,Term 2,99,99,7,12
+54,Student_54,Grade 9,Geography,Term 1,67,100,12,12
+54,Student_54,Grade 9,Geography,Term 2,93,93,5,12
+55,Student_55,Grade 11,Math,Term 1,79,76,9,12
+55,Student_55,Grade 11,Math,Term 2,73,93,6,12
+55,Student_55,Grade 11,Science,Term 1,94,73,10,12
+55,Student_55,Grade 11,Science,Term 2,46,93,8,12
+55,Student_55,Grade 11,English,Term 1,100,83,10,12
+55,Student_55,Grade 11,English,Term 2,58,77,11,12
+55,Student_55,Grade 11,History,Term 1,76,79,8,12
+55,Student_55,Grade 11,History,Term 2,63,94,10,12
+55,Student_55,Grade 11,Computer Science,Term 1,79,82,9,12
+55,Student_55,Grade 11,Computer Science,Term 2,88,73,9,12
+55,Student_55,Grade 11,Geography,Term 1,55,72,9,12
+55,Student_55,Grade 11,Geography,Term 2,47,93,11,12
+56,Student_56,Grade 11,Math,Term 1,89,76,7,12
+56,Student_56,Grade 11,Math,Term 2,81,94,9,12
+56,Student_56,Grade 11,Science,Term 1,75,74,9,12
+56,Student_56,Grade 11,Science,Term 2,83,96,10,12
+56,Student_56,Grade 11,English,Term 1,89,81,11,12
+56,Student_56,Grade 11,English,Term 2,68,98,8,12
+56,Student_56,Grade 11,History,Term 1,60,85,8,12
+56,Student_56,Grade 11,History,Term 2,91,90,9,12
+56,Student_56,Grade 11,Computer Science,Term 1,49,80,11,12
+56,Student_56,Grade 11,Computer Science,Term 2,95,75,6,12
+56,Student_56,Grade 11,Geography,Term 1,59,74,7,12
+56,Student_56,Grade 11,Geography,Term 2,88,93,10,12
+57,Student_57,Grade 11,Math,Term 1,48,91,9,12
+57,Student_57,Grade 11,Math,Term 2,84,74,11,12
+57,Student_57,Grade 11,Science,Term 1,97,92,9,12
+57,Student_57,Grade 11,Science,Term 2,92,85,8,12
+57,Student_57,Grade 11,English,Term 1,99,83,12,12
+57,Student_57,Grade 11,English,Term 2,61,91,10,12
+57,Student_57,Grade 11,History,Term 1,86,94,12,12
+57,Student_57,Grade 11,History,Term 2,90,80,8,12
+57,Student_57,Grade 11,Computer Science,Term 1,69,71,7,12
+57,Student_57,Grade 11,Computer Science,Term 2,66,87,11,12
+57,Student_57,Grade 11,Geography,Term 1,74,87,5,12
+57,Student_57,Grade 11,Geography,Term 2,84,93,9,12
+58,Student_58,Grade 9,Math,Term 1,84,96,7,12
+58,Student_58,Grade 9,Math,Term 2,61,70,11,12
+58,Student_58,Grade 9,Science,Term 1,48,90,7,12
+58,Student_58,Grade 9,Science,Term 2,67,96,8,12
+58,Student_58,Grade 9,English,Term 1,94,83,10,12
+58,Student_58,Grade 9,English,Term 2,88,74,8,12
+58,Student_58,Grade 9,History,Term 1,75,86,8,12
+58,Student_58,Grade 9,History,Term 2,98,70,5,12
+58,Student_58,Grade 9,Computer Science,Term 1,100,96,5,12
+58,Student_58,Grade 9,Computer Science,Term 2,65,87,12,12
+58,Student_58,Grade 9,Geography,Term 1,47,76,9,12
+58,Student_58,Grade 9,Geography,Term 2,56,78,12,12
+59,Student_59,Grade 11,Math,Term 1,90,75,5,12
+59,Student_59,Grade 11,Math,Term 2,95,87,11,12
+59,Student_59,Grade 11,Science,Term 1,85,99,11,12
+59,Student_59,Grade 11,Science,Term 2,90,74,9,12
+59,Student_59,Grade 11,English,Term 1,74,93,12,12
+59,Student_59,Grade 11,English,Term 2,67,74,12,12
+59,Student_59,Grade 11,History,Term 1,90,88,6,12
+59,Student_59,Grade 11,History,Term 2,84,95,5,12
+59,Student_59,Grade 11,Computer Science,Term 1,74,94,5,12
+59,Student_59,Grade 11,Computer Science,Term 2,75,91,10,12
+59,Student_59,Grade 11,Geography,Term 1,64,72,8,12
+59,Student_59,Grade 11,Geography,Term 2,72,99,12,12
+60,Student_60,Grade 10,Math,Term 1,73,73,6,12
+60,Student_60,Grade 10,Math,Term 2,87,72,9,12
+60,Student_60,Grade 10,Science,Term 1,49,76,9,12
+60,Student_60,Grade 10,Science,Term 2,50,93,9,12
+60,Student_60,Grade 10,English,Term 1,93,73,6,12
+60,Student_60,Grade 10,English,Term 2,53,83,5,12
+60,Student_60,Grade 10,History,Term 1,80,97,5,12
+60,Student_60,Grade 10,History,Term 2,70,95,6,12
+60,Student_60,Grade 10,Computer Science,Term 1,87,77,9,12
+60,Student_60,Grade 10,Computer Science,Term 2,72,73,7,12
+60,Student_60,Grade 10,Geography,Term 1,93,84,9,12
+60,Student_60,Grade 10,Geography,Term 2,74,98,5,12
